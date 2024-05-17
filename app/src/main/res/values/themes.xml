@@ -13,13 +13,11 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
-
     <style name="Theme.CircuitLaundryNew.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-
-    <style name="Theme.CircuitLaundryNew.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
+    <style name="Theme.CircuitLaundryNew.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="Theme.CircuitLaundryNew.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
